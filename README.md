@@ -9,3 +9,6 @@ This mod adds more book types for Jecrell's RimWriter, or more precisely, Mlie's
 Amaze your colonists with the comic book! Enchant them with fantasy novels! Intrigue them with mystery novels - and lastly, [REDACTED BY THE ORDER OF THE SUPPRESSION BUREAU]!
 
 Adds comics, fantasy novels, mystery novels, and eldritch tomes to RimWorld... for now.
+
+What's that? You feeling horny? Check out the NSFW version:
+https://github.com/carriontrooper/RimWriter-Addon-NSFW-1.3-

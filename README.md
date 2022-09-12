@@ -1,4 +1,4 @@
-# RimWriter-Addon-1.3-
+# RimWriter Addon (1.3)
 
 Tired of reading RimWriter journals? Skillbooks giving you the yawns?
 
